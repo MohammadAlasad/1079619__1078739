@@ -1,0 +1,10 @@
+
+How to develope a successful project 
+1. follow the SDLC phases 
+    - Planning phase 
+    - Analysis phase
+    - Design phase
+    - Implementation phase
+    - Testing phase
+     - Maintaince phase
+    
